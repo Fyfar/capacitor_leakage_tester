@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "random": "cpp",
+        "format": "cpp",
+        "regex": "cpp"
+    }
+}

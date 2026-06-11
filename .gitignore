@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# KiCAD auto-generated and local files
+kicad/fp-info-cache
+kicad/*-backups/
+kicad/_autosave-*
+kicad/~*
+kicad/*.kicad_sch-bak
+kicad/*.kicad_prl
+
+# Reference datasheets (copyrighted)
+kicad/*.pdf
